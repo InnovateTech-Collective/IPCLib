@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  ipc.cpp
+C:\Users\Gabi(mihai)\Cplusplus_IPCLib\src\net\client.hpp(13,10): fatal  error C1083: Cannot open include file: 'boost/asio.hpp': No such file or directory
+  rsa.cpp
+C:\Users\Gabi(mihai)\Cplusplus_IPCLib\src\security\RSA.hpp(4,10): fatal  error C1083: Cannot open include file: 'openssl/rsa.h': No such file or directory
+  finally.cpp
+  Generating Code...
