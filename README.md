@@ -1,2 +1,0 @@
-# IPCLib
-C++ IPC Library
